@@ -1,3 +1,10 @@
+## Final group project from Dev Academy
+
+Positively is a gamified habit formation app.    
+
+This app was completed within seven days, from planning and conception to presenting the final working product. We worked in a team of six bootcamp students, working day and night to complete this app and solidify our learning from the 15 week bootcamp. Our main focus was on learning and working as an agile team. 
+
+I worked mostly on the frontend, and a few backend tasks. I set up the majority of the Redux store with reducers and actions using Redux thunk, along with creating React components and api calls for the database. Other team members did more work on the backend, however I understand the work that went into it and as such collaboratively made some adjustments to backend code at times to improve and add functionality.
 
 ### Browser compatibility warning:
 
