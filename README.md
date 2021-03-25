@@ -1,3 +1,7 @@
+```
+npm install
+npm run dev
+```
 ## Final group project from Dev Academy
 
 Positively is a gamified habit formation app.    
