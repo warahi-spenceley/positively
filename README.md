@@ -8,7 +8,7 @@ npm run dev
 
 Positively is a gamified habit formation app.    
 
-This app was completed within seven days, from planning and conception to presenting the final working product. We worked in a team of six bootcamp students, working day and night to complete this app and solidify our learning from the 15 week bootcamp. Our main focus was on learning and working as an agile team. 
+This full-stack application was completed within seven days, from planning and conception to presenting the final working product. We worked in a team of six bootcamp students, working day and night to complete this app and solidify our learning from the 15 week bootcamp. Our main focus was on learning and working as an agile team.
 
 I worked mostly on the frontend, building the react-forms, creating api calls, setting up the Redux store and also writing tests. It was a great team development experience filled with persistant agile stand-ups and excellent communication. 
 
