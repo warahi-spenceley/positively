@@ -10,60 +10,20 @@ Positively is a gamified habit formation app.
 
 This app was completed within seven days, from planning and conception to presenting the final working product. We worked in a team of six bootcamp students, working day and night to complete this app and solidify our learning from the 15 week bootcamp. Our main focus was on learning and working as an agile team. 
 
-I worked mostly on the frontend, building the react-forms, creating api calls, setting up the Redux store and also writing tests. It was a great team development experience filled with persistant agile stand-ups and excellent communication.  
+I worked mostly on the frontend, building the react-forms, creating api calls, setting up the Redux store and also writing tests. It was a great team development experience filled with persistant agile stand-ups and excellent communication. 
 
-### Browser compatibility warning:
+```![positvely-brainstorm](https://user-images.githubusercontent.com/73860983/116834951-7b20c280-ac14-11eb-9ff2-89a9bae81fc2.png)
 
-The image for the UserDetails component uses the css aspect-ratio property in order to keep the image properly circular regardless of the image's inherent aspect ratio. This css property is still quite new and not widely supported, but will work fine on chrome. Worst case scenario will be the user uploads a non-square image and it renders as an oval on browsers that don't support the feature yet.
+```![positively-design](https://user-images.githubusercontent.com/73860983/116834947-74924b00-ac14-11eb-9e6a-b86883e5dfdc.png)
 
-### Data object shapes
+```![login](https://user-images.githubusercontent.com/73860983/116834886-309f4600-ac14-11eb-8fd7-af68445718de.png)
 
-GET 'api/v1/user/:id' will return the following object:
+```![home-page](https://user-images.githubusercontent.com/73860983/116834901-3e54cb80-ac14-11eb-98f8-ebcb9a21bc45.png)
 
-```
-[
-    {
-        "id": 2,
-        "firstName": "Allyson",
-        "lastName": "Wonderland",
-        "userImage": "Image goes here",
-        "totalXp": 0,
-        "pw": "abc123",
-        "habits": [
-            {
-                "id": 2,
-                "title": "smoking",
-                "description": "I know it's bad for me but I enjoy it.",
-                "habitIcon": "some icon",
-                "totalGoalCount": 0,
-                "priority": 1,
-                "goalCount": 0
-            },
-            {
-                "id": 3,
-                "title": "picking my nose",
-                "description": "I also enjoy picking my nose",
-                "habitIcon": "some icon",
-                "totalGoalCount": 0,
-                "priority": 1,
-                "goalCount": 0
-            }
-        ]
-    }
-]
-```
+```![profile-page-revisited](https://user-images.githubusercontent.com/73860983/116834918-51679b80-ac14-11eb-83c4-7fa1105a07fe.png)
 
-POST 'api/v1/habit' accepts a json
+```![add-habit-page](https://user-images.githubusercontent.com/73860983/116834923-59bfd680-ac14-11eb-815d-c00b0d181e04.png)
 
-```
-{
-    "userId": "2",
-    "title": "running",
-    "description": "30min a day",
-    "habitIcon": "some icon",
-    "totalGoalCount": 0,
-    "priority": 2,
-    "goalCount": 0
-}
-```
+```![edit-habits-page](https://user-images.githubusercontent.com/73860983/116834924-5b899a00-ac14-11eb-9bdb-c80dbb77baa5.png)
+
 
