@@ -12,18 +12,12 @@ This app was completed within seven days, from planning and conception to presen
 
 I worked mostly on the frontend, building the react-forms, creating api calls, setting up the Redux store and also writing tests. It was a great team development experience filled with persistant agile stand-ups and excellent communication. 
 
-![positvely-brainstorm](https://user-images.githubusercontent.com/73860983/116834951-7b20c280-ac14-11eb-9ff2-89a9bae81fc2.png)
+![login](https://user-images.githubusercontent.com/73860983/116835171-79a3ca00-ac15-11eb-8ee4-95b0a55fdef7.png)
 
-![positively-design](https://user-images.githubusercontent.com/73860983/116834947-74924b00-ac14-11eb-9e6a-b86883e5dfdc.png)
+![home-page](https://user-images.githubusercontent.com/73860983/116835174-7c9eba80-ac15-11eb-899e-db63f3b34112.png)
 
-![login](https://user-images.githubusercontent.com/73860983/116834886-309f4600-ac14-11eb-8fd7-af68445718de.png)
+![profile-page](https://user-images.githubusercontent.com/73860983/116835176-7f99ab00-ac15-11eb-9754-cd14a7179b34.png)
 
-![home-page](https://user-images.githubusercontent.com/73860983/116834901-3e54cb80-ac14-11eb-98f8-ebcb9a21bc45.png)
+![add-habit](https://user-images.githubusercontent.com/73860983/116835177-81636e80-ac15-11eb-9820-9919136b4ca6.png)
 
-![profile-page-revisited](https://user-images.githubusercontent.com/73860983/116834918-51679b80-ac14-11eb-83c4-7fa1105a07fe.png)
-
-![add-habit-page](https://user-images.githubusercontent.com/73860983/116834923-59bfd680-ac14-11eb-815d-c00b0d181e04.png)
-
-![edit-habits-page](https://user-images.githubusercontent.com/73860983/116834924-5b899a00-ac14-11eb-9bdb-c80dbb77baa5.png)
-
-
+![edit-habits-page](https://user-images.githubusercontent.com/73860983/116835180-832d3200-ac15-11eb-98eb-9aaea7b7930d.png)
