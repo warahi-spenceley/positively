@@ -12,18 +12,18 @@ This app was completed within seven days, from planning and conception to presen
 
 I worked mostly on the frontend, building the react-forms, creating api calls, setting up the Redux store and also writing tests. It was a great team development experience filled with persistant agile stand-ups and excellent communication. 
 
-```![positvely-brainstorm](https://user-images.githubusercontent.com/73860983/116834951-7b20c280-ac14-11eb-9ff2-89a9bae81fc2.png)
+![positvely-brainstorm](https://user-images.githubusercontent.com/73860983/116834951-7b20c280-ac14-11eb-9ff2-89a9bae81fc2.png)
 
-```![positively-design](https://user-images.githubusercontent.com/73860983/116834947-74924b00-ac14-11eb-9e6a-b86883e5dfdc.png)
+![positively-design](https://user-images.githubusercontent.com/73860983/116834947-74924b00-ac14-11eb-9e6a-b86883e5dfdc.png)
 
-```![login](https://user-images.githubusercontent.com/73860983/116834886-309f4600-ac14-11eb-8fd7-af68445718de.png)
+![login](https://user-images.githubusercontent.com/73860983/116834886-309f4600-ac14-11eb-8fd7-af68445718de.png)
 
-```![home-page](https://user-images.githubusercontent.com/73860983/116834901-3e54cb80-ac14-11eb-98f8-ebcb9a21bc45.png)
+![home-page](https://user-images.githubusercontent.com/73860983/116834901-3e54cb80-ac14-11eb-98f8-ebcb9a21bc45.png)
 
-```![profile-page-revisited](https://user-images.githubusercontent.com/73860983/116834918-51679b80-ac14-11eb-83c4-7fa1105a07fe.png)
+![profile-page-revisited](https://user-images.githubusercontent.com/73860983/116834918-51679b80-ac14-11eb-83c4-7fa1105a07fe.png)
 
-```![add-habit-page](https://user-images.githubusercontent.com/73860983/116834923-59bfd680-ac14-11eb-815d-c00b0d181e04.png)
+![add-habit-page](https://user-images.githubusercontent.com/73860983/116834923-59bfd680-ac14-11eb-815d-c00b0d181e04.png)
 
-```![edit-habits-page](https://user-images.githubusercontent.com/73860983/116834924-5b899a00-ac14-11eb-9bdb-c80dbb77baa5.png)
+![edit-habits-page](https://user-images.githubusercontent.com/73860983/116834924-5b899a00-ac14-11eb-9bdb-c80dbb77baa5.png)
 
 
